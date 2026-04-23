@@ -1,0 +1,9 @@
+Added FileExplorer option and integrated movies file
+
+was working with the youtube file and video playing clash
+
+added messenger option
+
+gif screen auto open
+failed to create a frontend
+added windows shorcuts
