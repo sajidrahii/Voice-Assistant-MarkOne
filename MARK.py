@@ -1,5 +1,5 @@
 #Updates
-#THE realtime didnt worked
+#THE realtime didn't worked
 
 import datetime
 from colorama import Fore
